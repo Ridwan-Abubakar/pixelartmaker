@@ -1,3 +1,8 @@
+/*Author name: Ridwan Abubakar
+Program name: Google Africa Scholarship Challenge
+Project name: Pixel art maker
+Date completed: 30/06/2018
+*/
 var color;// Select color input
 var height, width;// Select size input
 
